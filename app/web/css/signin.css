@@ -1,0 +1,21 @@
+body { 
+ background: url("singapore_skyline.jpg") no-repeat center center fixed; 
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+ padding-top: 40px;
+ padding-bottom: 40px;
+}
+
+.panel-default {
+ opacity: 0.9;
+ margin-top:6cm;
+}
+.form-group.last {
+ margin-bottom:0px;
+}
+
+.container {
+    margin-top: -30px;
+}
